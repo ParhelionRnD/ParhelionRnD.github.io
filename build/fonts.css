@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "HeaderFont";
+  src: url("/fonts/sabreshark.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "BodyFont", sans-serif;
+}
+@font-face {
+  font-family: "neuropol";
+  src: url("/fonts/neuropol.ttf") format("truetype");
+  font-weight: lighter;
+  font-style: normal;
+}
+
+body {
+  font-family: "neuropol", sans-serif;
+}
