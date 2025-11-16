@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "BodyFont";
+  src: url(".\fonts\Neuropol.ttf./fonts/Neuropol.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HeaderFont";
+  src: url("./fonts/sabreshark.ttf") format("truetype");
+}
+
+.body-font {
+  font-family: "BodyFont", sans-serif;
+}
+
+.header-font {
+  font-family: "HeaderFont", sans-serif;
+}
